@@ -1,7 +1,5 @@
 import fs from 'fs';
 
-const testFolder = '/src/fs/files'
-
 const list = async () => {
     // Write your code here
 
