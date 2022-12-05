@@ -1,0 +1,1 @@
+please, write the text and  press enter and look in file fileToWrite
